@@ -63,41 +63,41 @@
   - Snake case: 👂 heard
   - Kebab case: 👂 heard
   - Trailing commas: 🖐️ used
-  - Return earlyL: 🖐️ used
+  - Return early: 🖐️ used
   - Fail-fast
 - Types
-  - Primitive types
-  - Reference types
-  - Type systems
-  - Strong typing
-  - Weak typing
+  - Primitive types: u
+  - Reference types: u
+  - Type systems: h
+  - Strong typing: h / u
+  - Weak typing: u
   - Duck typing
-  - Static typing
-  - Dynamic typing
+  - Static typing: u
+  - Dynamic typing: u
   - Nominal typing
   - Structural typing
   - Explicit typing
-  - Type inference
+  - Type inference: u
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
-  - Pure function
-  - Lambda expression
-  - Side effects
-  - Closure
+  - Signature: u
+  - Argument: u
+  - Parameter: u
+  - Pure function: u
+  - Lambda expression: u
+  - Side effects: k
+  - Closure: k
   - Partial application
-  - Currying
-  - Higher order
-  - Recursion
+  - Currying: k
+  - Higher order: k
+  - Recursion: k
   - Tail call optimisation
-  - Callback
+  - Callback: k
   - Listener
   - Composition
-  - Pipe
-  - Memoize
+  - Pipe: h
+  - Memoize: h
   - Wrapper
   - Functor
   - Monad
@@ -105,135 +105,135 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
+  - Array: u
   - Structure
   - Record
-  - Enum
-  - Instance
-  - Object
-  - Collection
-  - Set
-  - Hash table
-  - Linked list
+  - Enum: h
+  - Instance: k
+  - Object: u
+  - Collection: h
+  - Set: h
+  - Hash table: h
+  - Linked list: h
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue
-  - Stack
+  - Queue: h
+  - Stack: h
   - Deque
-  - Tree
-  - Graph
+  - Tree: h
+  - Graph: h
   - Iterator
-  - Mutable state
-  - Immutable state
-  - Serialization
-  - String parsing
-  - JSON
+  - Mutable state: h
+  - Immutable state: h
+  - Serialization: u
+  - String parsing: k
+  - JSON: u
   - JSON5
-  - YAML
+  - YAML: k
 - Networking
-  - DNS
-  - CDN
-  - CORS
-  - IPv4
-  - IPv6
+  - DNS: h
+  - CDN: h
+  - CORS: k
+  - IPv4: h
+  - IPv6: h
   - NAT
-  - URL
+  - URL: k
   - URN
   - URI
 - Process and tools
-  - Compiler
-  - Just-in-time compilation
+  - Compiler: k
+  - Just-in-time compilation: h
   - Ahead-of-time compilation
-  - Transpiler
-  - Linter
-  - Polyfill
-  - Interpreter
+  - Transpiler: u
+  - Linter: u
+  - Polyfill: u / k
+  - Interpreter: k
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime
-  - Virtual machine
+  - Runtime: h
+  - Virtual machine: h
   - Register-based VM
   - Stack-based VM
-  - Containerization
-  - Debugger
-  - Tracing
-  - Garbage collection
-  - Refactoring
-  - Code review
-  - Exception
-  - Unittesting
-  - git
-  - Github
-  - Docker
-  - Kubernetes
-  - GCC
-  - LLVM
+  - Containerization: k
+  - Debugger: u
+  - Tracing: h
+  - Garbage collection: h
+  - Refactoring: u
+  - Code review: u
+  - Exception: u
+  - Unittesting: u
+  - git: u
+  - Github: u
+  - Docker: u
+  - Kubernetes: k
+  - GCC: h
+  - LLVM: h
 - Antipatterns
-  - Magic numbers
-  - Hard code
+  - Magic numbers: u
+  - Hard code: u
   - Soft code
-  - Cryptic code
+  - Cryptic code: k
   - Improbability factor
-  - Accidental complexity
+  - Accidental complexity: h
   - Action at a distance
-  - Spaghetti
-  - Silver bullet
+  - Spaghetti: u
+  - Silver bullet: k
   - Not invented here
-  - Dead code
-  - Unreachable code
-  - Duplicate code
-  - Premature optimization
+  - Dead code: u
+  - Unreachable code: u
+  - Duplicate code: u
+  - Premature optimization: u
   - Micro-optimization
-  - Nested loops
-  - Long method/function/procedure
-  - Long inheritance
-  - Large class/file
-  - Too many parameters
+  - Nested loops: u
+  - Long method/function/procedure: u
+  - Long inheritance: k
+  - Large class/file: k
+  - Too many parameters: u
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
-  - Temporary field
-  - Handle object as instances and hashes at the same time
+  - Use switch/case: k
+  - Temporary field: k
+  - Handle object as instances and hashes at the same time: k
   - Use fields instead of arguments
   - Data clump
   - Feature envy
-  - Monkey patch
+  - Monkey patch: h
   - Yo-yo problem
 - Runtimes and virtual machines
-  - Bytecode
-  - V8
+  - Bytecode: h
+  - V8: h
   - VJM
   - CLR
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers
-  - Kernel
+  - Drivers: k
+  - Kernel: k
   - Ring
-  - Virtual memory
-  - File system
-  - Linux
-  - Unix
+  - Virtual memory: h
+  - File system: k
+  - Linux: u
+  - Unix: u
   - BSD
-  - MacOS
-  - Windows
+  - MacOS: u
+  - Windows: u
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII: k
   - Escape sequence
   - RFC
   - IETF
   - IANA
   - IEEE
-  - Base64
-  - ECMA
+  - Base64: h
+  - ECMA: k
   - ICANN
   - ISO
-  - MIME
-  - OWASP
-  - UTF-8
-  - W3C
+  - MIME: h
+  - OWASP: k
+  - UTF-8: h
+  - W3C: h
   - ODMG

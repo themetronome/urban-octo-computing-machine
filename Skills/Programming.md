@@ -66,11 +66,11 @@
   - Return early: 🖐️ used
   - Fail-fast
 - Types
-  - Primitive types: u
-  - Reference types: u
-  - Type systems: h
-  - Strong typing: h
-  - Weak typing: u
+  - Primitive types: 🖐️ used
+  - Reference types: 🖐️ used
+  - Type systems: 👂 heard
+  - Strong typing: 👂 heard
+  - Weak typing: 🖐️ used
   - Duck typing
   - Static typing: 🖐️ used
   - Dynamic typing: 🖐️ used

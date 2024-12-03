@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-55&nbsp;/&nbsp;63&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/themetronome/urban-octo-computing-machine/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-158&nbsp;/&nbsp;226&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/themetronome/urban-octo-computing-machine/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-55&nbsp;/&nbsp;63&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/themetronome/urban-octo-computing-machine/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-158&nbsp;/&nbsp;226&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/themetronome/urban-octo-computing-machine/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/themetronome/urban-octo-computing-machine/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-55&nbsp;/&nbsp;63&nbsp;/&nbsp;731-009933?style=flat-square"></a>
+<a href="https://github.com/themetronome/urban-octo-computing-machine/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-158&nbsp;/&nbsp;226&nbsp;/&nbsp;731-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -17,15 +17,15 @@
 | [Programming](/Skills/Programming.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Concepts | `24` | `30` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Syntax and concepts | `31` | `33` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Types | `0` | `14` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Functions | `0` | `23` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `0` | `26` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Networking | `0` | `9` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Process and tools | `0` | `28` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Antipatterns | `0` | `30` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Runtimes and virtual machines | `0` | `5` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Operating systems | `0` | `13` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Standards | `0` | `15` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Types | `8` | `14` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Functions | `13` | `23` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `18` | `26` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Networking | `6` | `9` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Process and tools | `22` | `28` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Antipatterns | `19` | `30` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Runtimes and virtual machines | `2` | `5` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Operating systems | `8` | `13` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Standards | `7` | `15` |
 | [JavaScript](/Skills/JavaScript.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Language | `0` | `57` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Statements | `0` | `19` |

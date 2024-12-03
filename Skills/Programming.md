@@ -1,36 +1,36 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model: k
-  - Modeling: k
-  - Subject domain: k
-  - Algorithm: u
-  - Syntax: u
-  - Semantics: k
-  - Abstraction: h
-  - Paradigm: k
-  - Program: u
-  - Programming paradigm: k
-  - Programming language: u
+  - Model: 🎓 known
+  - Modeling: 🎓 known
+  - Subject domain: 🎓 known
+  - Algorithm: 🖐️ used
+  - Syntax: 🖐️ used
+  - Semantics: 🎓 known
+  - Abstraction: 👂 heard
+  - Paradigm: 🎓 known
+  - Program: 🖐️ used
+  - Programming paradigm: 🎓 known
+  - Programming language: 🖐️ used
   - Contract
   - Module
-  - Library: u
-  - Package: u
-  - Component: u
-  - Framework: u
-  - Platform: k
-  - Source code: u
+  - Library: 🖐️ used
+  - Package: 🖐️ used
+  - Component: 🖐️ used
+  - Framework: 🖐️ used
+  - Platform: 🎓 known
+  - Source code: 🖐️ used
   - Object code
-  - Machine code: k
+  - Machine code: 🎓 known
   - Microcode
-  - Software engineering: h
-  - Decomposition: h
-  - Control flow: u
+  - Software engineering: 👂 heard
+  - Decomposition: 👂 heard
+  - Control flow: 🖐️ used
   - Data flow
-  - Code reuse: u / k
+  - Code reuse: u /: 🎓 known
   - Defensive programming
-  - Don't repeat yourself (DRY): k
-  - KISS principle: u
+  - Don't repeat yourself (DRY): 🎓 known
+  - KISS principle: 🖐️ used
 - Syntax and concepts
   - Value
   - Identifier

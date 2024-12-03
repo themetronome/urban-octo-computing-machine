@@ -32,38 +32,38 @@
   - Don't repeat yourself (DRY): k
   - KISS principle: u
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
-  - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
+  - Value: u
+  - Identifier: u
+  - Variable: u
+  - Constant: u
+  - Scalar: u
+  - Literal: u
+  - Expression: u
+  - Heap: k
+  - Function: u
+  - Procedure: h
+  - Method: u
+  - Class: k
+  - Prototype: h
+  - Event: u
+  - Type: u
   - Flag
-  - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
-  - Regular expression
-  - Interface
-  - Namespaces
-  - Call stack
-  - Naming conventions
-  - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
-  - Trailing commas
-  - Return early
+  - Lexical scope: u
+  - Code block: u
+  - Conditions: u
+  - Loops: u
+  - Assignment: u
+  - Regular expression: u
+  - Interface: u
+  - Namespaces: h
+  - Call stack: h
+  - Naming conventions: u
+  - Coding conventions: h
+  - Camel case: u
+  - Snake case: h
+  - Kebab case: h
+  - Trailing commas: u
+  - Return earlyL u
   - Fail-fast
 - Types
   - Primitive types

@@ -18,7 +18,7 @@
   - Package: u
   - Component: u
   - Framework: u
-  - Platform
+  - Platform: k
   - Source code: u
   - Object code
   - Machine code: k

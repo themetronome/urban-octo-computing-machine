@@ -66,38 +66,38 @@
   - Return early: 🖐️ used
   - Fail-fast
 - Types
-  - Primitive types: u
-  - Reference types: u
-  - Type systems: h
-  - Strong typing: h / u
-  - Weak typing: u
+  - Primitive types: 🖐️ used
+  - Reference types: 🖐️ used
+  - Type systems: 👂 heard
+  - Strong typing: h /: 🖐️ used
+  - Weak typing: 🖐️ used
   - Duck typing
-  - Static typing: u
-  - Dynamic typing: u
+  - Static typing: 🖐️ used
+  - Dynamic typing: 🖐️ used
   - Nominal typing
   - Structural typing
   - Explicit typing
-  - Type inference: u
+  - Type inference: 🖐️ used
   - Covariance
   - Contravariance
 - Functions
-  - Signature: u
-  - Argument: u
-  - Parameter: u
-  - Pure function: u
-  - Lambda expression: u
-  - Side effects: k
-  - Closure: k
+  - Signature: 🖐️ used
+  - Argument: 🖐️ used
+  - Parameter: 🖐️ used
+  - Pure function: 🖐️ used
+  - Lambda expression: 🖐️ used
+  - Side effects: 🎓 known
+  - Closure: 🎓 known
   - Partial application
-  - Currying: k
-  - Higher order: k
-  - Recursion: k
+  - Currying: 🎓 known
+  - Higher order: 🎓 known
+  - Recursion: 🎓 known
   - Tail call optimisation
-  - Callback: k
+  - Callback: 🎓 known
   - Listener
   - Composition
-  - Pipe: h
-  - Memoize: h
+  - Pipe: 👂 heard
+  - Memoize: 👂 heard
   - Wrapper
   - Functor
   - Monad
@@ -105,135 +105,135 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array: u
+  - Array: 🖐️ used
   - Structure
   - Record
-  - Enum: h
-  - Instance: k
-  - Object: u
-  - Collection: h
-  - Set: h
-  - Hash table: h
-  - Linked list: h
+  - Enum: 👂 heard
+  - Instance: 🎓 known
+  - Object: 🖐️ used
+  - Collection: 👂 heard
+  - Set: 👂 heard
+  - Hash table: 👂 heard
+  - Linked list: 👂 heard
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue: h
-  - Stack: h
+  - Queue: 👂 heard
+  - Stack: 👂 heard
   - Deque
-  - Tree: h
-  - Graph: h
+  - Tree: 👂 heard
+  - Graph: 👂 heard
   - Iterator
-  - Mutable state: h
-  - Immutable state: h
-  - Serialization: u
-  - String parsing: k
-  - JSON: u
+  - Mutable state: 👂 heard
+  - Immutable state: 👂 heard
+  - Serialization: 🖐️ used
+  - String parsing: 🎓 known
+  - JSON: 🖐️ used
   - JSON5
-  - YAML: k
+  - YAML: 🎓 known
 - Networking
-  - DNS: h
-  - CDN: h
-  - CORS: k
-  - IPv4: h
-  - IPv6: h
+  - DNS: 👂 heard
+  - CDN: 👂 heard
+  - CORS: 🎓 known
+  - IPv4: 👂 heard
+  - IPv6: 👂 heard
   - NAT
-  - URL: k
+  - URL: 🎓 known
   - URN
   - URI
 - Process and tools
-  - Compiler: k
-  - Just-in-time compilation: h
+  - Compiler: 🎓 known
+  - Just-in-time compilation: 👂 heard
   - Ahead-of-time compilation
-  - Transpiler: u
-  - Linter: u
-  - Polyfill: u / k
-  - Interpreter: k
+  - Transpiler: 🖐️ used
+  - Linter: 🖐️ used
+  - Polyfill: u /: 🎓 known
+  - Interpreter: 🎓 known
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime: h
-  - Virtual machine: h
+  - Runtime: 👂 heard
+  - Virtual machine: 👂 heard
   - Register-based VM
   - Stack-based VM
-  - Containerization: k
-  - Debugger: u
-  - Tracing: h
-  - Garbage collection: h
-  - Refactoring: u
-  - Code review: u
-  - Exception: u
-  - Unittesting: u
-  - git: u
-  - Github: u
-  - Docker: u
-  - Kubernetes: k
-  - GCC: h
-  - LLVM: h
+  - Containerization: 🎓 known
+  - Debugger: 🖐️ used
+  - Tracing: 👂 heard
+  - Garbage collection: 👂 heard
+  - Refactoring: 🖐️ used
+  - Code review: 🖐️ used
+  - Exception: 🖐️ used
+  - Unittesting: 🖐️ used
+  - git: 🖐️ used
+  - Github: 🖐️ used
+  - Docker: 🖐️ used
+  - Kubernetes: 🎓 known
+  - GCC: 👂 heard
+  - LLVM: 👂 heard
 - Antipatterns
-  - Magic numbers: u
-  - Hard code: u
+  - Magic numbers: 🖐️ used
+  - Hard code: 🖐️ used
   - Soft code
-  - Cryptic code: k
+  - Cryptic code: 🎓 known
   - Improbability factor
-  - Accidental complexity: h
+  - Accidental complexity: 👂 heard
   - Action at a distance
-  - Spaghetti: u
-  - Silver bullet: k
+  - Spaghetti: 🖐️ used
+  - Silver bullet: 🎓 known
   - Not invented here
-  - Dead code: u
-  - Unreachable code: u
-  - Duplicate code: u
-  - Premature optimization: u
+  - Dead code: 🖐️ used
+  - Unreachable code: 🖐️ used
+  - Duplicate code: 🖐️ used
+  - Premature optimization: 🖐️ used
   - Micro-optimization
-  - Nested loops: u
-  - Long method/function/procedure: u
-  - Long inheritance: k
-  - Large class/file: k
-  - Too many parameters: u
+  - Nested loops: 🖐️ used
+  - Long method/function/procedure: 🖐️ used
+  - Long inheritance: 🎓 known
+  - Large class/file: 🎓 known
+  - Too many parameters: 🖐️ used
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case: k
-  - Temporary field: k
-  - Handle object as instances and hashes at the same time: k
+  - Use switch/case: 🎓 known
+  - Temporary field: 🎓 known
+  - Handle object as instances and hashes at the same time: 🎓 known
   - Use fields instead of arguments
   - Data clump
   - Feature envy
-  - Monkey patch: h
+  - Monkey patch: 👂 heard
   - Yo-yo problem
 - Runtimes and virtual machines
-  - Bytecode: h
-  - V8: h
+  - Bytecode: 👂 heard
+  - V8: 👂 heard
   - VJM
   - CLR
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers: k
-  - Kernel: k
+  - Drivers: 🎓 known
+  - Kernel: 🎓 known
   - Ring
-  - Virtual memory: h
-  - File system: k
-  - Linux: u
-  - Unix: u
+  - Virtual memory: 👂 heard
+  - File system: 🎓 known
+  - Linux: 🖐️ used
+  - Unix: 🖐️ used
   - BSD
-  - MacOS: u
-  - Windows: u
+  - MacOS: 🖐️ used
+  - Windows: 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII: k
+  - ASCII: 🎓 known
   - Escape sequence
   - RFC
   - IETF
   - IANA
   - IEEE
-  - Base64: h
-  - ECMA: k
+  - Base64: 👂 heard
+  - ECMA: 🎓 known
   - ICANN
   - ISO
-  - MIME: h
-  - OWASP: k
-  - UTF-8: h
-  - W3C: h
+  - MIME: 👂 heard
+  - OWASP: 🎓 known
+  - UTF-8: 👂 heard
+  - W3C: 👂 heard
   - ODMG

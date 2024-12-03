@@ -1,69 +1,69 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model: k
-  - Modeling: k
-  - Subject domain: k
-  - Algorithm: u
-  - Syntax: u
-  - Semantics: k
-  - Abstraction: h
-  - Paradigm: k
-  - Program: u
-  - Programming paradigm: k
-  - Programming language: u
+  - Model: 🎓 known
+  - Modeling: 🎓 known
+  - Subject domain: 🎓 known
+  - Algorithm: 🖐️ used
+  - Syntax: 🖐️ used
+  - Semantics: 🎓 known
+  - Abstraction: 👂 heard
+  - Paradigm: 🎓 known
+  - Program: 🖐️ used
+  - Programming paradigm: 🎓 known
+  - Programming language: 🖐️ used
   - Contract
   - Module
-  - Library: u
-  - Package: u
-  - Component: u
-  - Framework: u
-  - Platform: k
-  - Source code: u
+  - Library: 🖐️ used
+  - Package: 🖐️ used
+  - Component: 🖐️ used
+  - Framework: 🖐️ used
+  - Platform: 🎓 known
+  - Source code: 🖐️ used
   - Object code
-  - Machine code: k
+  - Machine code: 🎓 known
   - Microcode
-  - Software engineering: h
-  - Decomposition: h
-  - Control flow: u
+  - Software engineering: 👂 heard
+  - Decomposition: 👂 heard
+  - Control flow: 🖐️ used
   - Data flow
-  - Code reuse: u / k
+  - Code reuse: u /: 🎓 known
   - Defensive programming
-  - Don't repeat yourself (DRY): k
-  - KISS principle: u
+  - Don't repeat yourself (DRY): 🎓 known
+  - KISS principle: 🖐️ used
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
-  - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
+  - Value: 🖐️ used
+  - Identifier: 🖐️ used
+  - Variable: 🖐️ used
+  - Constant: 🖐️ used
+  - Scalar: 🖐️ used
+  - Literal: 🖐️ used
+  - Expression: 🖐️ used
+  - Heap: 🎓 known
+  - Function: 🖐️ used
+  - Procedure: 👂 heard
+  - Method: 🖐️ used
+  - Class: 🎓 known
+  - Prototype: 👂 heard
+  - Event: 🖐️ used
+  - Type: 🖐️ used
   - Flag
-  - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
-  - Regular expression
-  - Interface
-  - Namespaces
-  - Call stack
-  - Naming conventions
-  - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
-  - Trailing commas
-  - Return early
+  - Lexical scope: 🖐️ used
+  - Code block: 🖐️ used
+  - Conditions: 🖐️ used
+  - Loops: 🖐️ used
+  - Assignment: 🖐️ used
+  - Regular expression: 🖐️ used
+  - Interface: 🖐️ used
+  - Namespaces: 👂 heard
+  - Call stack: 👂 heard
+  - Naming conventions: 🖐️ used
+  - Coding conventions: 👂 heard
+  - Camel case: 🖐️ used
+  - Snake case: 👂 heard
+  - Kebab case: 👂 heard
+  - Trailing commas: 🖐️ used
+  - Return earlyL: 🖐️ used
   - Fail-fast
 - Types
   - Primitive types
